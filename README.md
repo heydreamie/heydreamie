@@ -38,6 +38,8 @@
 
 ## 公开 Skills
 
+- 🎨 **[Dreamie Design](https://github.com/heydreamie/dreamie-design)** — 把参考图与真实内容转成可比较、可制作、可检查的视觉方案，覆盖版式、配色、中国传统色、纹样、艺术分析与 AI 风格。
+
 - 🎮 **[Game Interface Polish](https://github.com/heydreamie/game-interface-polish)** — 从真实叙事游戏迭代中整理的方法，覆盖画风统一、角色动作、对白排版、浮层避让与交付验证，附改进前后对比画面。
 
 - 📚 **[教材期末教练](https://github.com/heydreamie/textbook-exam-coach)** — 面向大学课程复习的 Codex Skill，围绕上传材料梳理考点，逐题辅导、批改答案、整理错题并生成模拟练习。
