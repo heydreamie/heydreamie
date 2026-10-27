@@ -2,7 +2,7 @@
 
 广告学背景的 AI 产品探索者，关注体验设计、生活工具与可复用的 Agent Skills。
 
-[作品集 · Hey，Dreamie](https://heydreamie.com/) · [产品目录](https://github.com/mengqianyu1216/dreamie-products) · [GitHub](https://github.com/mengqianyu1216)
+[作品集 · Hey，Dreamie](https://heydreamie.com/) · [产品目录](https://github.com/heydreamie/dreamie-products) · [GitHub](https://github.com/heydreamie)
 
 我喜欢从日常里一个具体的念头开始：能不能看见另一种心情，让专注留下收获，把读过的片段和一闪而过的灵感留住。围绕这些问题，我用 AI 辅助开发，把想法做成可以操作的产品，再把实践中的方法整理成 Skills 和文档。
 
@@ -18,9 +18,9 @@
 
   [在线体验](https://heydreamie.com/our-stories/) · [产品介绍](https://heydreamie.com/projects/change-perspective/)
 
-- 🏋️ **练块 · SET BY SET** — 把每组训练变成一块可回看的积木，记录、复制与微调训练组，用立体积木回看积累。
+- 🌷 **攒时光 · 生活手账** — 体验和记录生活，攒下回忆，也攒下手机使用时间。把生活照片做成可以继续编辑、翻阅的手账。
 
-  [在线体验](https://heydreamie.com/projects/on-record/dist/index.html) · [Android APK](https://github.com/mengqianyu1216/dreamie-products/releases/download/liankuai-v0.1.0/liankuai-0.1.0-android.apk) · [产品介绍](https://heydreamie.com/site/islands/memories/on-record/index.html)
+  [Android APK](https://github.com/heydreamie/dreamie-products/releases/download/zanshiguang-v0.2.2/Zanshiguang-0.2.2.apk) · [产品说明](https://github.com/heydreamie/dreamie-products/blob/main/products/zanshiguang.md)（网页版待上线）
 
 - 📖 **书间 · 阅读标本室** — 把书、摘录、笔记和 PDF 页码放进自己的阅读室，让摘录成为种子，理解与行动慢慢生长。
 
@@ -34,13 +34,13 @@
 
   [交互演示](https://heydreamie.com/projects/flonote/#growth) · [Android APK](https://heydreamie.com/projects/flonote/downloads/Flonote-0.7.0.apk) · [产品介绍](https://heydreamie.com/projects/flonote/)
 
-以上五个项目对应作品集当前的五颗核心记忆。这里分享产品介绍、网页体验与安装包入口；产品实现有 AI 辅助。Android 安装包为体验／测试版，具体版本、数据保存方式与验证范围见[产品目录](https://github.com/mengqianyu1216/dreamie-products)。
+以上五个项目按作品集当前项目版本整理。这里分享产品介绍、已上线的网页体验与安装包入口；产品实现有 AI 辅助。Android 安装包为体验／测试版，具体版本、数据保存方式与验证范围见[产品目录](https://github.com/heydreamie/dreamie-products)。
 
 ## 公开 Skills
 
-- 🎮 **[Game Interface Polish](https://github.com/mengqianyu1216/game-interface-polish)** — 从真实叙事游戏迭代中整理的方法，覆盖画风统一、角色动作、对白排版、浮层避让与交付验证，附改进前后对比画面。
+- 🎮 **[Game Interface Polish](https://github.com/heydreamie/game-interface-polish)** — 从真实叙事游戏迭代中整理的方法，覆盖画风统一、角色动作、对白排版、浮层避让与交付验证，附改进前后对比画面。
 
-- 📚 **[教材期末教练](https://github.com/mengqianyu1216/textbook-exam-coach)** — 面向大学课程复习的 Codex Skill，围绕上传材料梳理考点，逐题辅导、批改答案、整理错题并生成模拟练习。
+- 📚 **[教材期末教练](https://github.com/heydreamie/textbook-exam-coach)** — 面向大学课程复习的 Codex Skill，围绕上传材料梳理考点，逐题辅导、批改答案、整理错题并生成模拟练习。
 
 ## 我的工作方式
 
